@@ -1,6 +1,3 @@
-
-Sigur! Iată o descriere potrivită pentru proiectul tău, pe care o poți adăuga în README.md:
-
 ---
 
 ## 📖 Descriere proiect
